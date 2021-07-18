@@ -1,5 +1,7 @@
 # nvim-config
 
+Vim-plug is used as a plugin maganer
+
 Plugins
 - coc
 - vimtex
